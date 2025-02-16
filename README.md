@@ -1,4 +1,6 @@
-# Visit : # https://fluxscript.github.io/Flux_script_website/
+<a href="https://fluxscript.github.io/Flux_script_website/" targer="_blank">
+Visit
+</a>
 
 # Hook Landing Page Theme
 
