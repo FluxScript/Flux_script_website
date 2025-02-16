@@ -1,6 +1,4 @@
-<a href="https://fluxscript.github.io/Flux_script_website/" targer="_blank">
-Visit
-</a>
+<a href="https://fluxscript.github.io/Flux_script_website/" target="_blank"><button style="font-size: 17px; font-weight: bold; color: black; background-color: #00c2b8; height: 45px; width: 120px; border: none; border-radius: 10px;">Visit FluxScript</button></a>
 
 # Hook Landing Page Theme
 
